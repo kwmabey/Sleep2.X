@@ -21,7 +21,7 @@
 ;  Processor:	The Code is written for the MicroChip 16F19175 running
 ;		at 16 MHz. 
 ;
-;  Authors:	Kent W. Mabey
+;  Authors:	Kent W. Mabey with a little help from Glen
 ;
 ;
 ;		Copyright (c) 2021  FED
